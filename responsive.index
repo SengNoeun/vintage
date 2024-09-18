@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body{
+      background-color: antiquewhite;
+     margin:0;
+    }
+    .faceing{
+        background-color: aquamarine;
+        width: 100%;
+        color:blue;
+    }
+    .sidebar{
+        background-color: aqua;
+        width: 30%;
+
+    }
+    .main{
+        flex: 70%;
+    }
+    </style>
+</head>
+<body>
+    <h1>welcom to responive</h1>
+ <div class="sidebar">
+    <div >
+        <h2>here is sidebar</h2>
+        <div class="faceing">
+            <h3>my image</h3>
+        </div>
+    </div>
+    <div class="main">
+        <h1>here is sidebar1</h1>
+        <div>
+            <h3>my image</h3>
+        </div>
+    </div>
+    <div>
+        <h1>here is sidebar2</h1>
+        <div>
+            <h3>my image</h3>
+        </div>
+    </div> <div>
+        <h1>here is sidebar3</h1>
+        <div>
+            <h3>my image</h3>
+        </div>
+    </div> <div>
+        <h1>here is sidebar4</h1>
+        <div>
+            <h3>my image</h3>
+        </div>
+    </div> <div>
+        <h1>here is sidebar6</h1>
+        <div>
+            <h3>my image</h3>
+        </div>
+    </div>
+</div>
+</body>
+</html>
